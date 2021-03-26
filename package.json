@@ -1,0 +1,22 @@
+{
+  "name": "js-tdd-intro",
+  "version": "1.0.0",
+  "description": "js-tdd-intro",
+  "main": "capitalizeFirstLetters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-diagana/js-tdd-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-diagana/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/ben-diagana/js-tdd-intro#readme",
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
